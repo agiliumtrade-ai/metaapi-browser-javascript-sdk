@@ -17,4 +17,4 @@ Please note that this SDK provides an abstraction over REST and websocket API to
 For more information about SDK APIs please check esdoc documentation in source codes located inside lib folder of this npm package.
 
 ## Documentation
-This SDK is a part of `metaapi.cloud-sdk` npm package. The source codes are available in the [https://github.com/agiliumtrade-ai/metaapi-node.js-sdk](https://github.com/agiliumtrade-ai/metaapi-node.js-sdk) repository.
+This SDK is a part of [metaapi.cloud-sdk npm package](https://www.npmjs.com/package/metaapi.cloud-sdk). The source codes are available in the [https://github.com/agiliumtrade-ai/metaapi-node.js-sdk](https://github.com/agiliumtrade-ai/metaapi-node.js-sdk) repository.
